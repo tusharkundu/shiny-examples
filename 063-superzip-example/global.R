@@ -1,3 +1,4 @@
+setwd("~/Dropbox/Tushar_Personal/Shiny/shiny-examples/063-superzip-example/")
 library(dplyr)
 
 allzips <- readRDS("data/superzip.rds")
